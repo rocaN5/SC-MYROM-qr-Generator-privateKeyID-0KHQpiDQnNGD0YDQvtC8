@@ -311,7 +311,7 @@ function convertToImageAndOpenInNewTab() {
 
 // Функция для отправки изображения в Telegram
 function sendImageToTelegram() {
-  const token = '7095204830:AAFx3-UnTed0mJbQ0Fh7NgomKUwDEEo8JtE';
+  const token = '7253117610:AAGuOwnYNUanasC_KD20-2HkWhl6E6n0TyM';
   const chatId = '-1002212691057';
   const imgElement = document.querySelector('img.test-img');
   const captionInputText = document.getElementById('qr-text')?.value || ''; // Получаем значение из инпута
